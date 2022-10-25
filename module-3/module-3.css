@@ -1,0 +1,24 @@
+/* Steranko, Assignment 3, 25 October 2022*/
+body {
+    padding: 2%;
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-family: Verdana, sans-serif;
+    margin: 2%;
+}
+
+#first, #second, #third, #fourth {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+button {
+    text-align: center;
+    margin-left: 10%;
+}
